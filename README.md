@@ -1,3 +1,7 @@
+NAME: MAHALAKSHMI  K
+
+REG NO:212222240057
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
