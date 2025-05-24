@@ -26,6 +26,7 @@ Visual components and Python
 
 
 ## Program
+```
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 
@@ -100,7 +101,7 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
     
 print("----------------------------------------------------------------------")
-
+```
 
 ## Output
 
